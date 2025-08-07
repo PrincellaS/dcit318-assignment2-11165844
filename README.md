@@ -44,7 +44,7 @@ cd ../InterfaceDemo && dotnet run
 
 ## Repository Structure
 ```
-dcit318-assignment2-ID/
+dcit318-assignment2-11165844/
 ├── InheritanceDemo/Program.cs
 ├── AbstractDemo/Program.cs
 ├── InterfaceDemo/Program.cs
